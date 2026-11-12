@@ -1,6 +1,6 @@
-// VERA ETO — Plano de Manutenção. Funciona sem internet: guarda o app, a base e os ladrilhos do mapa já vistos.
-const VERSAO = 'pm-1.0.0';
-const APP = ['./', 'index.html', 'app.css', 'app.js', 'config.js', 'manifest.json', 'dados/base.json?v=1.0.0', 'dados/rede.json?v=1.0.0',
+// Plano Manutenção ETO. Funciona sem internet: guarda o app, a base e os ladrilhos do mapa já vistos.
+const VERSAO = 'pm-1.0.1';
+const APP = ['./', 'index.html', 'app.css', 'app.js', 'config.js', 'manifest.json', 'dados/base.json?v=1.0.1', 'dados/rede.json?v=1.0.1',
   'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css', 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js'];
 const LADRILHOS = 'pm-ladrilhos';
 const MAX_LADRILHOS = 4000;

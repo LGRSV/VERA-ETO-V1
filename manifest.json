@@ -1,6 +1,6 @@
 {
-  "name": "VERA ETO — Plano de Manutenção",
-  "short_name": "VERA ETO",
+  "name": "Plano Manutenção ETO",
+  "short_name": "Manutenção ETO",
   "description": "Inspeção da rede de média tensão de Palmas e Taquaralto — Energisa Tocantins",
   "start_url": "./",
   "scope": "./",

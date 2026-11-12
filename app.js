@@ -1,4 +1,4 @@
-// VERA ETO — Plano de Manutenção. Inspeção da rede MT de Palmas e Taquaralto.
+// Plano Manutenção ETO. Inspeção da rede MT de Palmas e Taquaralto.
 // Sem framework. Leaflet no mapa, IndexedDB para a fila offline, Supabase (REST + Storage) para gravar.
 // Regra de gravação: o app só ACRESCENTA (inspeção nova, foto nova). O estado do poste é a última inspeção dele.
 (function () {
