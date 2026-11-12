@@ -1,4 +1,4 @@
-# VERA ETO — Plano de Manutenção
+# Plano Manutenção ETO
 
 App de campo para o técnico **inspecionar todas as estruturas da rede de média tensão (MT) urbana de Palmas e
 Taquaralto** e montar a lista do que precisa de manutenção até **31/12/2027**. Tem o mesmo visual e o mesmo jeito
