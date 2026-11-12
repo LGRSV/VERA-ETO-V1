@@ -63,4 +63,4 @@ cerca de 3.500 fotos. Política de foto a definir (`fotoObrigatoria` em `config.
 ## Publicar
 
 GitHub Pages do repositório (Settings → Pages → branch `main`, pasta raiz). Endereço:
-`https://lgrsv.github.io/VERA-ETO-V1/`.
+`https://lgrsv.github.io/plano-da-manutencao/`.
