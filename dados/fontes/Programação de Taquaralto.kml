@@ -1,0 +1,2269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="_1kml">
+	<name>Programação de Taquaralto</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1327"></atom:link>
+	<Style id="failed89">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="failed90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed91</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed89</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed91">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1010">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1110">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="inline128">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="inline130">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline141">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline610</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline710</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline151">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline511</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline190</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline161">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="inline171">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline180">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline211</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline810</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline190">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline201">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline128</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline161</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline211">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="inline212">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline310">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline171</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline410">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline511">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="inline610">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="inline710">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="inline810">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="inline910">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mfailed">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed91</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="minline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline212</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="minline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline211</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="minline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline910</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="minline2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline511</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin20">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000000</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>POLIGONOS</name>
+		<open>1</open>
+		<Placemark>
+			<name>IRMÃ DULCE</name>
+			<styleUrl>#inline151</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.30782934358893,-10.29572415373743,0 -48.30837644680912,-10.29230132323632,0 -48.31366013743488,-10.29029199458768,0 -48.31326416337246,-10.29191817668449,0 -48.3156514063808,-10.29245445360087,0 -48.31416065641986,-10.29593740833522,0 -48.32195101493925,-10.29598111608352,0 -48.32310372998619,-10.29517443758726,0 -48.32536593542152,-10.29646941000674,0 -48.3231710928676,-10.29806087937749,0 -48.32229854918444,-10.29722586398056,0 -48.32166397658023,-10.29659374023095,0 -48.32100129168763,-10.2969647608917,0 -48.31967244138997,-10.29777336870779,0 -48.31232665835104,-10.30163856872757,0 -48.31139722253979,-10.30244223782869,0 -48.311719966707,-10.30472940232194,0 -48.31086181846491,-10.30537227476903,0 -48.31080323252016,-10.30587100025633,0 -48.31092033801039,-10.30635387643824,0 -48.3109211985504,-10.3067487975652,0 -48.30819249775856,-10.30678197613283,0 -48.3083146268248,-10.29574190930692,0 -48.30782934358893,-10.29572415373743,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1kml.1">
+			<name>AURENY IV</name>
+			<description>STATUS : EM ANDAMENTO 
+</description>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3081116288023,-10.310202732281,0 -48.29772530236342,-10.31012471814404,0 -48.29349295947295,-10.31001797121393,0 -48.29418402269675,-10.29544053258984,0 -48.2979642443804,-10.2956296989876,0 -48.3082997778854,-10.2957647795933,0 -48.3081116288023,-10.310202732281,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.2">
+			<name>JARDIM AURENY III / LAGO SUL</name>
+			<description>STATUS : EXECUTADO  2026</description>
+			<TimeStamp><when>2026-07-23T16:35:49.401Z</when>
+</TimeStamp>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.32397313344694,-10.32761778518281,0 -48.30725956553369,-10.32758061596092,0 -48.30615010390922,-10.3276780421924,0 -48.30604321663451,-10.32639887063105,0 -48.30685872906958,-10.32612430441891,0 -48.30702373260116,-10.32076024118416,0 -48.30711831583896,-10.31300700211499,0 -48.30817292137217,-10.31128868614384,0 -48.30821894728875,-10.30684299964362,0 -48.31142684759858,-10.30676317820892,0 -48.31355490994299,-10.3025958339389,0 -48.3177629523047,-10.3027677689346,0 -48.31776315500935,-10.3027796854069,0 -48.32444339084499,-10.30291412554463,0 -48.32444339084499,-10.30291412554463,0 -48.32397313344694,-10.32761778518281,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.3">
+			<name>AURENY I</name>
+			<styleUrl>#minline1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.2977607708794,-10.3101368146768,0 -48.3081096192457,-10.3102090256581,0 -48.3081096192457,-10.3111305738707,0 -48.3025752047276,-10.311068678926,0 -48.3025804473053,-10.3114091009715,0 -48.3047578645739,-10.3115638381432,0 -48.3047788348847,-10.3123031369144,0 -48.30561065721199,-10.3122928211295,0 -48.30563162752281,-10.3130080480797,0 -48.3070576086553,-10.3129874165558,0 -48.3069387768943,-10.3207997902462,0 -48.3024633630702,-10.3208634025283,0 -48.30174687745221,-10.3211866214923,0 -48.2985436624817,-10.3197235372547,0 -48.29586222983192,-10.31983595857569,0 -48.29595879723855,-10.31867414948339,0 -48.29466035412508,-10.31831124571035,0 -48.29241974132024,-10.31774358798512,0 -48.28840140876464,-10.31774404651156,0 -48.28876588813457,-10.31410733780032,0 -48.29335495792531,-10.31403908211951,0 -48.29350884666528,-10.31009740404891,0 -48.2977607708794,-10.3101368146768,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.4">
+			<name>AURENY II</name>
+			<styleUrl>#minline0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3015127089819,-10.3210993695973,0 -48.3017732674694,-10.32120886896879,0 -48.30249812977674,-10.32086843875232,0 -48.30399246671944,-10.32085855816351,0 -48.30401457550929,-10.32128443322053,0 -48.30400706094251,-10.32232968543546,0 -48.3063883062366,-10.3220312013935,0 -48.30670985100179,-10.3260198229046,0 -48.3046268001317,-10.3262948983856,0 -48.3047106813747,-10.3266112348912,0 -48.3060108406427,-10.3264049285106,0 -48.30627646457909,-10.3290043790144,0 -48.3035712944894,-10.3292794518843,0 -48.3036621658361,-10.3304519472927,0 -48.30233404615381,-10.3318960705238,0 -48.3026031651421,-10.3323327445752,0 -48.30324974972429,-10.3318169877567,0 -48.3036027499556,-10.3320783046505,0 -48.3031466456963,-10.3338946229776,0 -48.3033213982861,-10.3339840202958,0 -48.3039400224539,-10.3321444934345,0 -48.30410778494009,-10.3317525180948,0 -48.3037722599677,-10.3313055280758,0 -48.3049815478889,-10.3308241534982,0 -48.30552677596901,-10.3316287363071,0 -48.3054638650367,-10.332584605514,0 -48.3060650139455,-10.334296910709,0 -48.2990119994223,-10.334180006635,0 -48.2975860182897,-10.3229054359105,0 -48.2973448597158,-10.3197729658873,0 -48.2985392936669,-10.3197274055828,0 -48.3015127089819,-10.3210993695973,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.5">
+			<name>NOVA FLAMBOYANTE</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.34464002878455,-10.3395212710701,0 -48.3318925729509,-10.3403672668882,0 -48.32796160636631,-10.34016359555257,0 -48.32575074536189,-10.34026458773679,0 -48.32575964148033,-10.33380515627746,0 -48.32834196720152,-10.33376362902159,0 -48.331822671915,-10.333573136258,0 -48.3417765794285,-10.3337931913743,0 -48.34854487584469,-10.33388870214224,0 -48.3604810648871,-10.33360804084073,0 -48.36049675153802,-10.33870365421681,0 -48.34464002878455,-10.3395212710701,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.6">
+			<name>TAQUARI T-20/T-21</name>
+			<styleUrl>#minline</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3278487980236,-10.3402434884947,0 -48.32573778673919,-10.3402641182303,0 -48.3256259450817,-10.3458547266298,0 -48.3382710424777,-10.345968188131,0 -48.3383121093363,-10.339988195404,0 -48.3319056793952,-10.3403870370437,0 -48.3278487980236,-10.3402434884947,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.7">
+			<name>TAQUARI 22</name>
+			<styleUrl>#minline</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3383151675066,-10.3399886251905,0 -48.34459795999039,-10.3396074043141,0 -48.34447904962079,-10.34600473699467,0 -48.3382710424777,-10.3459673285744,0 -48.3383151675066,-10.3399886251905,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.8">
+			<name>TAQUARI 23</name>
+			<styleUrl>#minline2</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3445930416435,-10.33959615991994,0 -48.35099597093465,-10.33989861199404,0 -48.35643844024763,-10.34278567452038,0 -48.35970365605148,-10.34604220152875,0 -48.3508345123787,-10.3460322951461,0 -48.34454072851731,-10.3460064384006,0 -48.3445930416435,-10.33959615991994,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.9">
+			<name>TAQUARI T-33/T-43</name>
+			<styleUrl>#minline2</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.36476181634828,-10.35184879615287,0 -48.35557350037149,-10.35423086694445,0 -48.35510389541798,-10.35242715704307,0 -48.35137157341535,-10.35402050454784,0 -48.3465582471662,-10.3531825792302,0 -48.3444472358817,-10.3538598935812,0 -48.344544223569,-10.3460173977467,0 -48.36394017139946,-10.34609364748865,0 -48.36476181634828,-10.35184879615287,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.10">
+			<name>TAQUARI T-32/T-42</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.34449267155501,-10.346031150651,0 -48.3382714793591,-10.3460242741989,0 -48.3382155585303,-10.3537739400644,0 -48.3444402457781,-10.3538530173007,0 -48.34449267155501,-10.346031150651,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.11">
+			<name>TAQUIRI T-31/T-41</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.33199960891201,-10.345915110502,0 -48.3382644892554,-10.3459804368134,0 -48.33820856842671,-10.3537747995997,0 -48.33344131777759,-10.3535083435486,0 -48.3334483078812,-10.3516895600697,0 -48.3319349504538,-10.3517411325253,0 -48.33199960891201,-10.345915110502,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.12">
+			<name>TAQUARI T-30</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3319991720305,-10.3459152179466,0 -48.3319319468937,-10.3517347934117,0 -48.3253682396214,-10.3514597402113,0 -48.3256198833507,-10.3458657934258,0 -48.3319991720305,-10.3459152179466,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.13">
+			<name>JARDIM AMERICA I</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3252633880675,-10.3396253479223,0 -48.3181125120936,-10.3395290756152,0 -48.31732263038781,-10.3490426998418,0 -48.3253472693106,-10.3491114636943,0 -48.3252633880675,-10.3396253479223,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.14">
+			<name>JARDIM AMERICA II</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.31731826157311,-10.3490392616488,0 -48.31550957226881,-10.3490031606198,0 -48.31197257985171,-10.3421198218742,0 -48.3143562051763,-10.3389634752152,0 -48.3147406608738,-10.3394585905146,0 -48.31806795018319,-10.339534233061,0 -48.31731826157311,-10.3490392616488,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.15">
+			<name>JARDIM AEROPORTO</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3252607667787,-10.3396098755892,0 -48.31474765097741,-10.3394482756204,0 -48.3143557682948,-10.338958747548,0 -48.31211238192351,-10.3387687812248,0 -48.3121193720271,-10.3364822997239,0 -48.3252957172967,-10.3366954761463,0 -48.3252607667787,-10.3396098755892,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.16">
+			<name>JARDIM JANAINA</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3238679886381,-10.3366696886836,0 -48.30808346096611,-10.3363825881218,0 -48.3061157468051,-10.3342989522313,0 -48.30606681608,-10.3314863657001,0 -48.323870609927,-10.331610147544,0 -48.3238679886381,-10.3366696886836,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.17">
+			<name>JARDIM SANTA HELENA</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3143548945319,-10.3389630454273,0 -48.31195117265939,-10.3421159538218,0 -48.309854141582,-10.3448390509665,0 -48.30942425021119,-10.3447290272974,0 -48.307820021437,-10.3449112539784,0 -48.3077204124608,-10.3434843818547,0 -48.3070144119981,-10.3435858103282,0 -48.3068012138386,-10.3418013520614,0 -48.30767148173571,-10.3416982038746,0 -48.30742682811,-10.339954994393,0 -48.3107121767979,-10.3394736330679,0 -48.31025956759041,-10.3364290055957,0 -48.3120979648349,-10.3364616697399,0 -48.31210844999029,-10.3387730791067,0 -48.3143548945319,-10.3389630454273,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.18">
+			<name>JARDIM IRENILDA</name>
+			<TimeSpan>
+				<end>2026-07-24T08:01:04.106Z</end>
+			</TimeSpan>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.309853813921,-10.3448396419139,0 -48.3062338140236,-10.3507932724135,0 -48.3033119507225,-10.3487303613408,0 -48.3011030779876,-10.3495830328954,0 -48.3008304639476,-10.3478845638804,0 -48.3020607221796,-10.3477298445861,0 -48.3039410600457,-10.3441368972986,0 -48.3061848832985,-10.3419089054992,0 -48.30679695424421,-10.3418044679957,0 -48.3070066573519,-10.3435988112213,0 -48.3077194294775,-10.3434859935362,0 -48.30781674482591,-10.3449173783403,0 -48.3094262161778,-10.3447330027627,0 -48.309853813921,-10.3448396419139,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.19">
+			<name>JARDIM BELA VISTA</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3063003292281,-10.3507137646339,0 -48.3108840896581,-10.3531153204603,0 -48.3099998415538,-10.3543599276984,0 -48.3100347920718,-10.3565706405298,0 -48.3106778816022,-10.3564743734216,0 -48.3110483570925,-10.3605381949141,0 -48.30242256926091,-10.36151460441,0 -48.30286993589069,-10.360380043794,0 -48.3035549660427,-10.3576691149032,0 -48.30624440839941,-10.3507894044679,0 -48.3062985817022,-10.350705169197,0 -48.3063003292281,-10.3507137646339,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.20">
+			<name>JARDIM SÔNIA REGINA</name>
+			<styleUrl>#failed90</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3062347970069,-10.3507997189893,0 -48.3035471021761,-10.3576252791452,0 -48.3028760522313,-10.3603705891049,0 -48.3024216954979,-10.3615051497552,0 -48.301069110453,-10.3496642600547,0 -48.3033111861799,-10.3487329399881,0 -48.3062347970069,-10.3507997189893,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.21">
+			<name>JARDIM PAULISTA</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.31104792021101,-10.3605437817729,0 -48.3121794432299,-10.3660730040797,0 -48.3036148188047,-10.3684177155494,0 -48.3024243167868,-10.3615180424662,0 -48.31104792021101,-10.3605437817729,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.22">
+			<name>DISTRITO INDUSTRIAL</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3036641864113,-10.3684439301495,0 -48.304163978818,-10.3714521483739,0 -48.3043072759417,-10.3752648085644,0 -48.3229988129448,-10.3687739760748,0 -48.32128623756489,-10.3635619602178,0 -48.3036641864113,-10.3684439301495,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.23">
+			<name>JARDIM VITORIA II</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3212827425131,-10.3635516461163,0 -48.3242552840653,-10.3630582878635,0 -48.3241015017863,-10.360541632981,0 -48.3149444660817,-10.3605485091148,0 -48.3159300706881,-10.3650042120707,0 -48.3212827425131,-10.3635516461163,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.24">
+			<name>JARDIM VITORIA</name>
+			<styleUrl>#mfailed</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.32410019114191,-10.3605386246725,0 -48.3238485474126,-10.3566875362642,0 -48.3135381446155,-10.3566875362642,0 -48.3149444660817,-10.3605482405158,0 -48.32410019114191,-10.3605386246725,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.37">
+			<name>JARDIM LAILA</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.2771631746117,-10.3376561113498,0 -48.27666338220489,-10.3386119622193,0 -48.27675075849979,-10.3395540569924,0 -48.2764606692008,-10.3400113501517,0 -48.2741749053264,-10.33920678881,0 -48.2703023879369,-10.3375151402919,0 -48.2679537131302,-10.332096302413,0 -48.2672267423567,-10.3300607757165,0 -48.2664718111688,-10.3286854123784,0 -48.2672686829783,-10.3273375504694,0 -48.2710433389175,-10.3292630657133,0 -48.2773955955561,-10.3318848420607,0 -48.2771631746117,-10.3376561113498,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.25">
+			<name>TAQUARALTO 1 ETAPA</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.30374402650071,-10.3443898769457,0 -48.3034888877197,-10.3421550104049,0 -48.3006998363867,-10.3425194666496,0 -48.3004516877093,-10.3404530629071,0 -48.299875004163,-10.3405321435003,0 -48.30082871642171,-10.3478813942845,0 -48.3020594115353,-10.3477266749886,0 -48.30374402650071,-10.3443898769457,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.26">
+			<name>TAQUARALTO 5 ETAPA</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3060726047596,-10.3343036262443,0 -48.30807985669399,-10.3363836088765,0 -48.3102550895553,-10.3364293816632,0 -48.3107090094073,-10.3394714304083,0 -48.3073904577273,-10.339947634298,0 -48.3076663483785,-10.3416955714465,0 -48.3061691555655,-10.3419005784362,0 -48.30392882736449,-10.3441328681032,0 -48.3038047530257,-10.3443825706772,0 -48.3037514534859,-10.3443838600187,0 -48.303501994164,-10.3421223468529,0 -48.3007015839127,-10.3425160283851,0 -48.30046173598319,-10.3404358714712,0 -48.2998710722298,-10.3405183903551,0 -48.2990130370139,-10.3341901605285,0 -48.3060726047596,-10.3343036262443,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.27">
+			<name>SOL NASCENTE</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.30124987016309,-10.3567312109921,0 -48.29898507659961,-10.3588868977464,0 -48.29242136932731,-10.3536403360203,0 -48.2918062402113,-10.352725788753,0 -48.2963288372349,-10.3521550548964,0 -48.2965525205498,-10.3535234391498,0 -48.3007116321866,-10.3531383667977,0 -48.30124987016309,-10.3567312109921,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.28">
+			<name>PALMAS SUL</name>
+			<styleUrl>#minline0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.30211910248201,-10.36166655397809,0 -48.30245355038245,-10.36552092575893,0 -48.2992271380393,-10.36582656360587,0 -48.29892610234509,-10.3664235698657,0 -48.2921277849765,-10.3623112117743,0 -48.2831455018617,-10.3610253793678,0 -48.2831385117581,-10.3581236419305,0 -48.2864867713783,-10.3579929943523,0 -48.2869411281118,-10.3576354322809,0 -48.2893422286954,-10.3535062484299,0 -48.29080141282009,-10.3531968153102,0 -48.2909866505653,-10.3533549700539,0 -48.2913955716253,-10.3532105678997,0 -48.2918018713966,-10.3527283673674,0 -48.2924198402422,-10.3536414104398,0 -48.30211910248201,-10.36166655397809,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.29">
+			<name>TAQUARALTO 4 ETAPA</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3008184497071,-10.3531155890656,0 -48.2965588553312,-10.3535161330939,0 -48.2963308032015,-10.3521460297292,0 -48.29180558488909,-10.352715904064,0 -48.29024154921051,-10.3500702343708,0 -48.2922075158456,-10.3428173061675,0 -48.29347621964741,-10.3427055626585,0 -48.2937068930659,-10.3448286825267,0 -48.2996624613257,-10.3440310100254,0 -48.3008184497071,-10.3531155890656,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.30">
+			<name>TAQUARALTO 2  ETAPA</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.29221275842329,-10.342810429645,0 -48.2928077909915,-10.3406812791299,0 -48.2940275640682,-10.3384120030997,0 -48.2953277233362,-10.3390996642344,0 -48.2969913679909,-10.3360395606284,0 -48.2985851116097,-10.3358401371115,0 -48.2996615875628,-10.3440301504635,0 -48.2937090774733,-10.3448261038473,0 -48.2934788409363,-10.3427008350477,0 -48.29221275842329,-10.342810429645,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.31">
+			<name>TAQUARALTO 1 ETAPA</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.2925788650989,-10.3414106244021,0 -48.291055022516,-10.3405441775019,0 -48.2923062510588,-10.3340113659841,0 -48.2984190966494,-10.3341678112161,0 -48.2985846747283,-10.3358358391895,0 -48.297016270235,-10.3359965814329,0 -48.2953255389288,-10.3390927876305,0 -48.294026908746,-10.338410283945,0 -48.292804077499,-10.3406821387011,0 -48.2925788650989,-10.3414106244021,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.32">
+			<name>TAQUARALTO 6 ETAPA</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.29229860563311,-10.3339928848115,0 -48.2934939133472,-10.3264352834933,0 -48.29451097341969,-10.3236879575544,0 -48.2958880238272,-10.3224982445077,0 -48.2969365393659,-10.3224157208925,0 -48.2984184413272,-10.3341648026546,0 -48.29229860563311,-10.3339928848115,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.33">
+			<name>TAQUARALTO 2 ETAPA</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.2910542579734,-10.3405435328232,0 -48.2887317960552,-10.338948056573,0 -48.28979429180111,-10.3372907898804,0 -48.28915120227069,-10.3370363539708,0 -48.2919122931893,-10.3360272041103,0 -48.2910542579734,-10.3405435328232,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.34">
+			<name>TAQUARALTO 3 ETAPA</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.2922810211537,-10.3340312439884,0 -48.29191360383371,-10.3360224763989,0 -48.2891485809819,-10.337034205018,0 -48.2820798387252,-10.3339349699669,0 -48.2922810211537,-10.3340312439884,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.35">
+			<name>MORADA DO SOL ST. 02</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.2863368118122,-10.3358123080654,0 -48.2838343547266,-10.3390649588726,0 -48.2835739733678,-10.3403319707103,0 -48.2834481515032,-10.3405520210919,0 -48.2796140796833,-10.3387778605002,0 -48.2818386801513,-10.3338369767361,0 -48.2863368118122,-10.3358123080654,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.36">
+			<name>MORADA DO SOL ST. 03</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.2796114583945,-10.3387718434657,0 -48.2771727860041,-10.3376492347143,0 -48.27740345942259,-10.3318796844893,0 -48.2818351850995,-10.3338352575563,0 -48.2796114583945,-10.3387718434657,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.38">
+			<name>MARIA ROSA</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.2836368843002,-10.3406770887206,0 -48.2827246757815,-10.3418323502338,0 -48.2855486776324,-10.3431354526131,0 -48.2878763821283,-10.3401544690206,0 -48.2842764787788,-10.3398175163845,0 -48.2836368843002,-10.3406770887206,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ARARAS</name>
+			<styleUrl>#inline180</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.26812419919423,-10.33761830185,0 -48.26815836471004,-10.33937384261136,0 -48.26494972591321,-10.34075597911868,0 -48.26006191464067,-10.34038853721377,0 -48.25974969120161,-10.34267606854983,0 -48.25834940088359,-10.34258143350989,0 -48.25788580200554,-10.34151142948872,0 -48.25660730961282,-10.34125140948805,0 -48.25551874802468,-10.33691050595997,0 -48.26812419919423,-10.33761830185,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.39">
+			<name>MORADA DO SOL ST. 01</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.28063987738539,-10.3392742654547,0 -48.2775921922196,-10.3433726923059,0 -48.28326116623221,-10.345978878867,0 -48.2855460563436,-10.3431380313063,0 -48.282716811915,-10.3418319204498,0 -48.2836521751518,-10.3406465739429,0 -48.28063987738539,-10.3392742654547,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.40">
+			<name>MORADA DO SOL</name>
+			<styleUrl>#minline0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.28933425560861,-10.3534969009755,0 -48.289206686218,-10.3534470478809,0 -48.28920319116629,-10.3531995013629,0 -48.2882507895519,-10.3534075092141,0 -48.2838330440822,-10.3502822196922,0 -48.2796529621347,-10.3487281587462,0 -48.2767990342265,-10.34841804381903,0 -48.27443096923592,-10.3482005885992,0 -48.27451710660149,-10.34180968292404,0 -48.26473161464907,-10.34139646525659,0 -48.2648495623081,-10.34078414248637,0 -48.26814456930618,-10.33940575848693,0 -48.26819863010357,-10.33898372806339,0 -48.27005806335492,-10.33743178600656,0 -48.2739802498572,-10.33912230529435,0 -48.2764646011341,-10.3400165075896,0 -48.27676430182549,-10.3395463208242,0 -48.2766699354271,-10.3386162601033,0 -48.2771697278338,-10.3376518134526,0 -48.2806276447042,-10.3392613718294,0 -48.2775712219089,-10.3433769901248,0 -48.2832624768766,-10.3459831766501,0 -48.2878980077613,-10.3401392116068,0 -48.2842788816269,-10.33979882066,0 -48.2836427822001,-10.3406317463386,0 -48.2834601657438,-10.3405449296269,0 -48.28358249255659,-10.3403334749615,0 -48.2838516115449,-10.3390656035543,0 -48.2863505735788,-10.3358249869362,0 -48.2897835882051,-10.3372927239364,0 -48.2887167236445,-10.3389499906188,0 -48.2910522920069,-10.3405616912712,0 -48.2925770083528,-10.3414152445862,0 -48.29023838182,-10.3500716311322,0 -48.2918006699726,-10.3527254664262,0 -48.2913943702014,-10.3532063776577,0 -48.2909837016154,-10.3533340188527,0 -48.2908037064479,-10.3531844594675,0 -48.28933425560861,-10.3534969009755,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.42">
+			<name>LAGO SUL</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3115346061737,-10.3276263785078,0 -48.3116377102017,-10.331504900745,0 -48.323879129116,-10.331601175511,0 -48.3238703914865,-10.3366658742879,0 -48.3255611227926,-10.336681346766,0 -48.32577781600399,-10.3029770459333,0 -48.32570791496799,-10.3000472627351,0 -48.3274764111766,-10.2971655949558,0 -48.32623217273741,-10.2965741276675,0 -48.3245545478755,-10.2985926771595,0 -48.3239831069069,-10.3276057479424,0 -48.3115346061737,-10.3276263785078,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="_1.kml.43">
+			<name>UNIÃO SUL</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3244531913734,-10.302863568922,0 -48.317756672133,-10.3028085497503,0 -48.31773744934811,-10.2992890221553,0 -48.3245493052978,-10.2985918174734,0 -48.3244531913734,-10.302863568922,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>RESIDENCIAL BERTAVILLE</name>
+			<styleUrl>#inline310</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3141847141801,-10.29592463605969,0 -48.32196684588013,-10.29596552679206,0 -48.32403214424914,-10.29446130390418,0 -48.32116887878887,-10.29380717924709,0 -48.32162873265126,-10.29138540424805,0 -48.32308986029661,-10.29120545607605,0 -48.32542899945827,-10.29162205219641,0 -48.32631614597299,-10.29185734494959,0 -48.32648015174577,-10.29098338754713,0 -48.32591573004621,-10.290699490943,0 -48.32587032111013,-10.2900807143576,0 -48.32375186686534,-10.29026840793119,0 -48.32309977483321,-10.29024785109158,0 -48.32144869254553,-10.29078212187186,0 -48.32059235871473,-10.29039320086791,0 -48.32027557452574,-10.28981321215194,0 -48.32009044551615,-10.28924476002681,0 -48.32011330579777,-10.28863405040937,0 -48.32038486838032,-10.28694534718742,0 -48.32079531016247,-10.28634049296845,0 -48.32122749116451,-10.28587502323704,0 -48.31986475413798,-10.28495968079939,0 -48.31866142912966,-10.28533189654436,0 -48.31743392498869,-10.2862967982863,0 -48.31626232061571,-10.28782711672997,0 -48.31451325865333,-10.28844048368154,0 -48.31427726904379,-10.28844075748561,0 -48.31366899197941,-10.29031653240533,0 -48.31330053724229,-10.29190362180587,0 -48.3156362345679,-10.29243825901498,0 -48.3141847141801,-10.29592463605969,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SANTA FÉ 2</name>
+			<styleUrl>#inline410</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.28528185037931,-10.33394273650168,0 -48.28244892989187,-10.33391084570122,0 -48.28225864773658,-10.3339009566018,0 -48.28211707232621,-10.33388439748932,0 -48.27739746176384,-10.33187267086368,0 -48.27784976660401,-10.32774132458964,0 -48.28254137990794,-10.33008477963668,0 -48.28346554169415,-10.33012159752377,0 -48.28519868875874,-10.32612641469962,0 -48.28596746684881,-10.32624746895491,0 -48.28755878533996,-10.32288569370244,0 -48.28934868176998,-10.32405267632424,0 -48.28986423780491,-10.32279213469986,0 -48.29038140709482,-10.3230536553271,0 -48.29215518367268,-10.32175428422262,0 -48.29365400857849,-10.32070269550875,0 -48.29455992395874,-10.31985221198207,0 -48.29693184787094,-10.31980944553117,0 -48.2969415448729,-10.32239785433987,0 -48.29590888902959,-10.32246713151377,0 -48.29445457357208,-10.32368166742848,0 -48.2934583205361,-10.32643010216283,0 -48.29229119436555,-10.33400557896374,0 -48.28528185037931,-10.33394273650168,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>1801 SUL</name>
+			<styleUrl>#inline201</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.3259631993239,-10.3090345273192,0 -48.33211914559689,-10.3090213353031,0 -48.33197801018593,-10.31502564478347,0 -48.32592452611628,-10.31496369644902,0 -48.3259631993239,-10.3090345273192,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>1701 SUL</name>
+			<styleUrl>#inline141</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.33240755778332,-10.30290576365153,0 -48.33218830335682,-10.30895173251886,0 -48.32601593542928,-10.3090027302163,0 -48.32597728443906,-10.30284471509191,0 -48.33240755778332,-10.30290576365153,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>ETIQUETAS</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>JARDIM AURENY IV</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.3021618105529</longitude>
+				<latitude>-10.30466893879684</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05810580481927733</heading>
+				<tilt>11.73607916520887</tilt>
+				<range>7230.085808563438</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.302823904654,-10.303281129833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM AURENY I</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.29435537576467</longitude>
+				<latitude>-10.31066434468614</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05950552286675721</heading>
+				<tilt>11.73607916520872</tilt>
+				<range>7230.085808561686</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.30232322537496,-10.31600721024285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1701 SUL</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2026-07-23T16:35:49.401Z</when>
+</gx:TimeStamp>
+				<longitude>-48.31646282835153</longitude>
+				<latitude>-10.30567995412899</latitude>
+				<altitude>0</altitude>
+				<heading>0.001604863847453804</heading>
+				<tilt>1.102435182975845</tilt>
+				<range>6135.565041183792</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.32935828764729,-10.3061848905946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IRMÃ DULCE</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.29417420614185</longitude>
+				<latitude>-10.31209863357326</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05953809405425766</heading>
+				<tilt>11.73607916520884</tilt>
+				<range>7230.085808559626</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.31083655038086,-10.29764679032427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM AURENY II</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.27681037322127</longitude>
+				<latitude>-10.3299895559978</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001707703038744479</heading>
+				<tilt>1.743777959838868</tilt>
+				<range>11879.75569560851</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.30128711326271,-10.32623514696521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1801 SULL</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2026-07-23T16:35:49.401Z</when>
+</gx:TimeStamp>
+				<longitude>-48.31793636998366</longitude>
+				<latitude>-10.30608542693183</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002368872988010146</heading>
+				<tilt>12.50000889704967</tilt>
+				<range>7086.423445379028</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.3289599646405,-10.31230742727145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NOVA FLAMBOYANTE</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2026-07-23T16:35:49.401Z</when>
+</gx:TimeStamp>
+				<longitude>-48.35044740195634</longitude>
+				<latitude>-10.3346337567278</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002082516738533613</heading>
+				<tilt>19.05783807150475</tilt>
+				<range>5077.252092208699</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.34299090653194,-10.33642074819156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARI T-20/T-21</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.33067007256475</longitude>
+				<latitude>-10.33603907710711</latitude>
+				<altitude>0</altitude>
+				<heading>0.01095089088173308</heading>
+				<tilt>8.664487385942557</tilt>
+				<range>7313.209302146839</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.33293093843298,-10.34343928165066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARI T-22</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.34037450344867</longitude>
+				<latitude>-10.34482576493096</latitude>
+				<altitude>0</altitude>
+				<heading>0.0167310582064261</heading>
+				<tilt>22.29243769667368</tilt>
+				<range>2978.297739373397</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.34177656204696,-10.34301548006139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARI T-23</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.34460786760466</longitude>
+				<latitude>-10.34480059052138</latitude>
+				<altitude>0</altitude>
+				<heading>0.0174911676988651</heading>
+				<tilt>22.29243769667361</tilt>
+				<range>2978.297739372912</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.34851990368847,-10.34301685663767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARI T-33/T-43</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.34293674316877</longitude>
+				<latitude>-10.34511750572915</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002995995460564021</heading>
+				<tilt>2.072384637061374</tilt>
+				<range>4308.503843160189</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.34811906060029,-10.34945569792547,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARI T-32/T-42</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.33929020389619</longitude>
+				<latitude>-10.34569121630907</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003557381477400444</heading>
+				<tilt>2.072384637061022</tilt>
+				<range>4308.503843158068</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.3419346810522,-10.35024496032709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARI T-30</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.3395798515439</longitude>
+				<latitude>-10.3421977511013</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003038130803721651</heading>
+				<tilt>2.072713035605406</tilt>
+				<range>5320.112421983698</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.32934203982722,-10.34916491862139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARI T-31/T-41</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.3395798515439</longitude>
+				<latitude>-10.3421977511013</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003038130803721651</heading>
+				<tilt>2.072713035605406</tilt>
+				<range>5320.112421983698</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.3357453536271,-10.34837771360342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISTRITO INDUSTRIAL</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.30972082365373</longitude>
+				<latitude>-10.34837317150991</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003345804700584738</heading>
+				<tilt>1.880098202061126</tilt>
+				<range>12679.37750555946</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.31521880696571,-10.36925878346082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM AEROPORTO</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.31022032006963</longitude>
+				<latitude>-10.33752129747174</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008026609361484853</heading>
+				<tilt>7.108052269349312</tilt>
+				<range>6927.961490992372</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.31932598525449,-10.33804080908676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM AMERICA I</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.31022032006963</longitude>
+				<latitude>-10.33752129747174</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008026609361484853</heading>
+				<tilt>7.108052269349312</tilt>
+				<range>6927.961490992372</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.32197513442095,-10.34414344983642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM AMERICA II</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.31019896573464</longitude>
+				<latitude>-10.33958178229571</latitude>
+				<altitude>0</altitude>
+				<heading>0.001166167076468376</heading>
+				<tilt>10.11867544161023</tilt>
+				<range>4952.229533385556</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.31569335684112,-10.34245580531943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM BELA VISTA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.28576719490362</longitude>
+				<latitude>-10.34164413000811</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00346327392806592</heading>
+				<tilt>14.56652509012782</tilt>
+				<range>10427.21186625901</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.30738875052576,-10.35755621090102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM IRENILDA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.29051709452801</longitude>
+				<latitude>-10.35344420436141</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002426312712008928</heading>
+				<tilt>15.70588757717165</tilt>
+				<range>7682.229429363129</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.30565406082847,-10.34697980954599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM JANAINA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.30489590268626</longitude>
+				<latitude>-10.34254951588847</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0005431151761102617</heading>
+				<tilt>14.61606325578333</tilt>
+				<range>5495.058659976678</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.31558311758226,-10.33395291375183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM LAILA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.2759028903133</longitude>
+				<latitude>-10.33948088353602</latitude>
+				<altitude>0</altitude>
+				<heading>-0.005747334543711566</heading>
+				<tilt>14.61606325578328</tilt>
+				<range>5495.058659976125</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.27313074620349,-10.33463555702567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM PAULISTA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.29565082715882</longitude>
+				<latitude>-10.36270521834593</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002200782496554377</heading>
+				<tilt>14.62245732312674</tilt>
+				<range>8318.141536107878</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.30727023594292,-10.3639519790739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM SANTA HELENA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.30836315006501</longitude>
+				<latitude>-10.34235207236629</latitude>
+				<altitude>0</altitude>
+				<heading>0.00161141072881356</heading>
+				<tilt>16.58277837840672</tilt>
+				<range>3687.387474615348</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.31039360635799,-10.34118283033768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM SÔNIA REGINA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.29848860897086</longitude>
+				<latitude>-10.35077994461611</latitude>
+				<altitude>0</altitude>
+				<heading>0.002665810026803829</heading>
+				<tilt>3.448163235326795</tilt>
+				<range>6799.248863499084</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.30370196539229,-10.35331503727686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM VITORIA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.30975729172412</longitude>
+				<latitude>-10.35650677059552</latitude>
+				<altitude>0</altitude>
+				<heading>0.004947631982034936</heading>
+				<tilt>5.084098265419721</tilt>
+				<range>7099.632043333623</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.31906750548949,-10.35880122613021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM VITORIA II</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.30975729172412</longitude>
+				<latitude>-10.35650677059552</latitude>
+				<altitude>0</altitude>
+				<heading>0.004947631982034936</heading>
+				<tilt>5.084098265419721</tilt>
+				<range>7099.632043333623</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.31932975827987,-10.36229997916759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JARDIM AURENY III</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.292131326055</longitude>
+				<latitude>-10.33053731547874</latitude>
+				<altitude>0</altitude>
+				<heading>-0.000572871581212034</heading>
+				<tilt>4.275688420143928</tilt>
+				<range>11412.28058900972</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.31836543181117,-10.31573427699257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MARIA ROSA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.28588072054711</longitude>
+				<latitude>-10.34088202401666</latitude>
+				<altitude>0</altitude>
+				<heading>-5.532560746743861e-05</heading>
+				<tilt>26.11410614273452</tilt>
+				<range>4669.420633784034</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.28506364464839,-10.34119619900354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MORADA DO SOL</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.28588072054711</longitude>
+				<latitude>-10.34088202401666</latitude>
+				<altitude>0</altitude>
+				<heading>-5.532560746743861e-05</heading>
+				<tilt>26.11410614273452</tilt>
+				<range>4669.420633784034</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.2875273365235,-10.34755941404006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MORADA DO SOL ST. 01</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.28401737199391</longitude>
+				<latitude>-10.35164554629202</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001669047683714212</heading>
+				<tilt>0.5671433818670027</tilt>
+				<range>6963.110971434609</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.28158228284762,-10.34282923965728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MORADA DO SOL ST. 02</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.29373992260884</longitude>
+				<latitude>-10.34218691669496</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00153670719511114</heading>
+				<tilt>5.122724959607235</tilt>
+				<range>6586.415364070651</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.28305363341325,-10.3372581423812,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MORADA DO SOL ST. 03</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.29373992260884</longitude>
+				<latitude>-10.34218691669496</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00153670719511114</heading>
+				<tilt>5.122724959607235</tilt>
+				<range>6586.415364070651</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.27926357955793,-10.33447958724996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PALMAS SUL</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2026-07-23T16:35:49.401Z</when>
+</gx:TimeStamp>
+				<longitude>-48.29797335280495</longitude>
+				<latitude>-10.37162772669784</latitude>
+				<altitude>3340.634780786289</altitude>
+				<heading>-6.268817740797805</heading>
+				<tilt>19.95668733513481</tilt>
+				<roll>-3.559141882982705</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.29610957818347,-10.36081352949621,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RESIDENCIAL BERTAVILLE</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.31488458392669</longitude>
+				<latitude>-10.28882056276199</latitude>
+				<altitude>0</altitude>
+				<heading>0.006584107933293341</heading>
+				<tilt>30.02420897622791</tilt>
+				<range>5389.863409140411</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.31871641000171,-10.29258029019232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SANTA FÉ 1,2,3 E 4 ETAPA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2026-07-23T16:35:49.401Z</when>
+</gx:TimeStamp>
+				<longitude>-48.2861610939873</longitude>
+				<latitude>-10.33026810411823</latitude>
+				<altitude>0</altitude>
+				<heading>0.00209004422763642</heading>
+				<tilt>30.01123494347662</tilt>
+				<range>2501.31176998879</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.28848868441113,-10.32910931356389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOL NASCENTE</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.28808975089763</longitude>
+				<latitude>-10.35098679073589</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001377555851113973</heading>
+				<tilt>2.75108348137714</tilt>
+				<range>5604.746244514972</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.29765377258524,-10.35525197484805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARALTO 1 ETAPA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.28506636509216</longitude>
+				<latitude>-10.34333225560447</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0009713965283531838</heading>
+				<tilt>4.292264939057368</tilt>
+				<range>6057.952121892864</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.29492456605931,-10.33618348306291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARALTO 1 ETAPA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.28506636509216</longitude>
+				<latitude>-10.34333225560447</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0009713965283531838</heading>
+				<tilt>4.292264939057368</tilt>
+				<range>6057.952121892864</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.29629034289277,-10.34185079536914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARALTO 1 ETAPA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.29549507429932</longitude>
+				<latitude>-10.34481592239425</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008740611664356491</heading>
+				<tilt>7.99435377967847</tilt>
+				<range>4189.066573637704</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.30273754642786,-10.34444367191443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARALTO 2 ETAPA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.29549507429932</longitude>
+				<latitude>-10.34481592239425</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008740611664356491</heading>
+				<tilt>7.99435377967847</tilt>
+				<range>4189.066573637704</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.29038692572615,-10.33863898346701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARALTO 3 ETAPA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.28841249625743</longitude>
+				<latitude>-10.33910977419689</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003308319766779017</heading>
+				<tilt>16.35733680394398</tilt>
+				<range>3829.255670226875</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.28840135011745,-10.33503544245253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARALTO 4 ETAPA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.29151633544181</longitude>
+				<latitude>-10.34997826071664</latitude>
+				<altitude>0</altitude>
+				<heading>0.0009863108545741636</heading>
+				<tilt>19.91641000158827</tilt>
+				<range>5990.505904469328</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.29645793655774,-10.34891749660337,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARALTO 5 ETAPA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.29151633544181</longitude>
+				<latitude>-10.34997826071664</latitude>
+				<altitude>0</altitude>
+				<heading>0.0009863108545741636</heading>
+				<tilt>19.91641000158827</tilt>
+				<range>5990.505904469328</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.30498895181201,-10.33830971163949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAQUARALTO 6  ETAPA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.28999324320978</longitude>
+				<latitude>-10.33282089427148</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008520179926683793</heading>
+				<tilt>21.38974463370803</tilt>
+				<range>4946.434866526576</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.2952195366498,-10.32943688859363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UNIÃO SUL</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.31898584400718</longitude>
+				<latitude>-10.30194215608062</latitude>
+				<altitude>0</altitude>
+				<heading>0.005137974185892413</heading>
+				<tilt>19.56239911205563</tilt>
+				<range>2296.547419891195</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.32147151397649,-10.3012406641006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LAGO SUL</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeSpan>
+					<begin>2026-07-23T16:35:49.401Z</begin>
+					<end>2026-07-24T08:01:04.106Z</end>
+				</gx:TimeSpan>
+				<longitude>-48.31355084402657</longitude>
+				<latitude>-10.33519713350424</latitude>
+				<altitude>6057.495095549612</altitude>
+				<heading>18.62249324560866</heading>
+				<tilt>1.291445605611615</tilt>
+				<roll>17.65447109808167</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.31927373992074,-10.330216005885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARARAS</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2026-07-23T16:35:49.401Z</when>
+</gx:TimeStamp>
+				<longitude>-48.26451255179985</longitude>
+				<latitude>-10.34537823825797</latitude>
+				<altitude>1955.835358538815</altitude>
+				<heading>-8.77216229967312</heading>
+				<tilt>11.7550531539404</tilt>
+				<roll>-5.957776621616304</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-48.2616407306189,-10.33915484961469,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

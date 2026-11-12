@@ -1,0 +1,42 @@
+name: Publicar VERA ETO no GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  publicar:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Configurar Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - name: Preparar arquivos públicos
+        run: |
+          mkdir -p public
+          cp index.html app.js app.css config.js sw.js manifest.json public/
+          mkdir -p public/dados && cp dados/base.json dados/rede.json public/dados/
+          touch public/.nojekyll
+      - name: Enviar
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v4
