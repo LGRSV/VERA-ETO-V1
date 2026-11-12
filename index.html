@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1a2e1a">
+<title>VERA ETO — Plano de Manutenção</title>
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<div id="status-bar" class="online"><span><span class="status-dot"></span> <span id="status-txt">Online</span></span><span class="pending-badge" id="pend-badge">0 para enviar</span></div>
+
+<!-- LOGIN -->
+<section id="login-screen" class="tela">
+  <div class="login-card">
+    <div class="login-icon">VERA <small>ETO</small></div>
+    <div class="login-title">Plano de Manutenção</div>
+    <div class="login-subtitle">Inspeção da rede de média tensão<br>Palmas e Taquaralto · até dezembro de 2027</div>
+    <div class="field-group">
+      <label class="field-label" for="l-nome">Seu nome</label>
+      <input class="field-input" id="l-nome" autocomplete="name" maxlength="60" placeholder="Nome e sobrenome">
+    </div>
+    <div class="field-group">
+      <label class="field-label">Equipe</label>
+      <input class="field-input" value="Palmas" disabled>
+    </div>
+    <button class="btn-primary" id="l-entrar">Entrar</button>
+    <div class="login-error" id="l-erro"></div>
+    <div class="login-versao" id="l-versao"></div>
+  </div>
+</section>
+
+<!-- APP -->
+<section id="app" class="tela" hidden>
+  <header>
+    <div class="logo"><div class="logo-mark">PM</div><div><div class="logo-text">VERA ETO</div><div class="logo-sub">Plano de Manutenção · MT</div></div></div>
+    <div class="header-right"><span class="user-badge" id="h-user"></span><button class="btn-icon" id="h-sair" title="Trocar de técnico">⎋</button></div>
+  </header>
+  <nav class="tab-bar">
+    <button class="tab-btn active" data-tab="mapa"><span class="tab-icon">◉</span>Mapa</button>
+    <button class="tab-btn" data-tab="quadras"><span class="tab-icon">▦</span>Quadras</button>
+    <button class="tab-btn" data-tab="registros"><span class="tab-icon">☰</span>Registros</button>
+    <button class="tab-btn" data-tab="painel"><span class="tab-icon">▲</span>Painel</button>
+  </nav>
+
+  <div class="tab-panel active" id="tab-mapa">
+    <div id="map"></div>
+    <div class="gps-pill" id="gps-pill">GPS: aguardando…</div>
+    <div class="map-ctrl">
+      <button class="map-btn" id="m-camada" title="Satélite / mapa">🛰</button>
+      <button class="map-btn" id="m-eu" title="Ir para minha posição">⌖</button>
+    </div>
+    <div class="map-legenda" id="m-legenda">
+      <span><i class="lg pend"></i>Falta</span><span><i class="lg ok"></i>Sem anomalia</span>
+      <span><i class="lg anom"></i>Anomalia</span><span><i class="lg urg"></i>Urgente</span><span><i class="lg nl"></i>Não localizado</span>
+    </div>
+    <div class="map-quadra" id="m-quadra" hidden></div>
+    <button class="map-fab" id="m-perto" title="Próximo poste que falta">➜</button>
+  </div>
+
+  <div class="tab-panel" id="tab-quadras">
+    <div class="bloco">
+      <div class="config-title">Minhas quadras</div>
+      <p class="ajuda">O gestor distribui as quadras. Toque numa quadra para vê-la no mapa.</p>
+      <div id="q-minhas"></div>
+    </div>
+    <div class="bloco">
+      <div class="config-title">Quadras perto de mim</div>
+      <div id="q-perto"></div>
+    </div>
+  </div>
+
+  <div class="tab-panel" id="tab-registros">
+    <div class="records-header"><span class="records-count" id="r-cont"></span><button class="btn-export" id="r-sync">⟳ Enviar agora</button></div>
+    <div id="r-lista"></div>
+  </div>
+
+  <div class="tab-panel" id="tab-painel">
+    <div id="p-conteudo"><p class="ajuda">Carregando…</p></div>
+  </div>
+</section>
+
+<!-- FICHA DO POSTE -->
+<div class="sheet" id="sheet" hidden>
+  <div class="sheet-card">
+    <button class="sheet-x" id="s-fechar" aria-label="Fechar">✕</button>
+    <div id="s-corpo"></div>
+  </div>
+</div>
+
+<!-- FORMULÁRIO DE ANOMALIA -->
+<section class="form-tela" id="form" hidden>
+  <header class="form-head"><button class="btn-icon" id="f-voltar">←</button><div><div class="logo-text">Registrar anomalia</div><div class="logo-sub" id="f-poste"></div></div></header>
+  <div class="form-corpo">
+    <p class="ajuda">Marque o que tem defeito. Em cada item: o defeito, a prioridade e a foto.</p>
+    <div id="f-itens"></div>
+    <div class="form-section-title">Observação geral</div>
+    <textarea class="field-input" id="f-obs" rows="3" maxlength="2000" placeholder="Opcional"></textarea>
+    <button class="btn-capture" id="f-salvar">Salvar inspeção</button>
+  </div>
+</section>
+
+<div id="toast"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

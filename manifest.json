@@ -1,0 +1,12 @@
+{
+  "name": "VERA ETO — Plano de Manutenção",
+  "short_name": "VERA ETO",
+  "description": "Inspeção da rede de média tensão de Palmas e Taquaralto — Energisa Tocantins",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a2e1a",
+  "theme_color": "#1a2e1a",
+  "icons": [{ "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='32' fill='%231a2e1a'/%3E%3Crect x='40' y='40' width='112' height='112' rx='22' fill='%234CAF50'/%3E%3Ctext x='96' y='118' font-size='60' font-family='sans-serif' font-weight='800' text-anchor='middle' fill='white'%3EPM%3C/text%3E%3C/svg%3E", "sizes": "192x192", "type": "image/svg+xml" }]
+}
